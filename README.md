@@ -23,6 +23,12 @@ To Run the Code
 python main.py <number of layers>
 ```
 
+To Run the Web App locally
+```
+cd web
+flask --app index.py run
+```
+
 ## Visualization
 
 This is an example with 1 layer: <br />
